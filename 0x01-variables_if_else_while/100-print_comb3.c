@@ -18,7 +18,7 @@ int main(void)
 		if (f_d < l_d)
 		{
 			putchar(f_d);
-i	putchar(l_d);
+	                putchar(l_d);
 
 			if (c != 89)
 			{
