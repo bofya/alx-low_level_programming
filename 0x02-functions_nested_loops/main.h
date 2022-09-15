@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #ifndef HOLBERTON_H_INCLUDED
 #define HOLBERTON_H_INCLUDED
 
@@ -17,3 +18,6 @@ void print_times_table(int n);
 void num(int r, int n);
 
 #endif
+=======
+
+>>>>>>> b78da9233fdba6b5ea3b2cbaa1136d7fa7feea4c
